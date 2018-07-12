@@ -1,0 +1,9 @@
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\bin\Debug\TestTextFileDatabase.dll
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\bin\Debug\TestTextFileDatabase.pdb
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\bin\Debug\DatabaseInterface.dll
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\bin\Debug\PeopleInformation.dll
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\bin\Debug\DatabaseInterface.pdb
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\bin\Debug\PeopleInformation.pdb
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\obj\Debug\TestTextFileDatabase.csprojResolveAssemblyReference.cache
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\obj\Debug\TestTextFileDatabase.dll
+E:\devel2\Test\StudentManagement\TestTextFileDatabase\obj\Debug\TestTextFileDatabase.pdb

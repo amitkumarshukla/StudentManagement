@@ -1,0 +1,7 @@
+E:\devel2\Test\StudentManagement\DatabaseInterface\bin\Debug\DatabaseInterface.dll
+E:\devel2\Test\StudentManagement\DatabaseInterface\bin\Debug\DatabaseInterface.pdb
+E:\devel2\Test\StudentManagement\DatabaseInterface\bin\Debug\PeopleInformation.dll
+E:\devel2\Test\StudentManagement\DatabaseInterface\bin\Debug\PeopleInformation.pdb
+E:\devel2\Test\StudentManagement\DatabaseInterface\obj\Debug\DatabaseInterface.csprojResolveAssemblyReference.cache
+E:\devel2\Test\StudentManagement\DatabaseInterface\obj\Debug\DatabaseInterface.dll
+E:\devel2\Test\StudentManagement\DatabaseInterface\obj\Debug\DatabaseInterface.pdb

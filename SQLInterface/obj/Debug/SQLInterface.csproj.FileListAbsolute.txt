@@ -1,0 +1,9 @@
+E:\devel2\Test\StudentManagement\SQLInterface\bin\Debug\SQLInterface.dll
+E:\devel2\Test\StudentManagement\SQLInterface\bin\Debug\SQLInterface.pdb
+E:\devel2\Test\StudentManagement\SQLInterface\bin\Debug\DatabaseInterface.dll
+E:\devel2\Test\StudentManagement\SQLInterface\bin\Debug\PeopleInformation.dll
+E:\devel2\Test\StudentManagement\SQLInterface\bin\Debug\DatabaseInterface.pdb
+E:\devel2\Test\StudentManagement\SQLInterface\bin\Debug\PeopleInformation.pdb
+E:\devel2\Test\StudentManagement\SQLInterface\obj\Debug\SQLInterface.csprojResolveAssemblyReference.cache
+E:\devel2\Test\StudentManagement\SQLInterface\obj\Debug\SQLInterface.dll
+E:\devel2\Test\StudentManagement\SQLInterface\obj\Debug\SQLInterface.pdb

@@ -1,0 +1,16 @@
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+E:\devel2\Test\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+E:\devel2\Test\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+E:\devel2\Test\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\DatabaseFactory.dll
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\DatabaseInterface.dll
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\PeopleInformation.dll
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\SQLInterface.dll
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\TestTextFileDatabase.dll
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\DatabaseFactory.pdb
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\DatabaseInterface.pdb
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\PeopleInformation.pdb
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\SQLInterface.pdb
+E:\devel2\Test\StudentManagement\StudentManagement\bin\Debug\TestTextFileDatabase.pdb

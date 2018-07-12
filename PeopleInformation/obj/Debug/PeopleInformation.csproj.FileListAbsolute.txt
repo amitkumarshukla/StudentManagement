@@ -1,0 +1,4 @@
+E:\devel2\Test\StudentManagement\PeopleInformation\bin\Debug\PeopleInformation.dll
+E:\devel2\Test\StudentManagement\PeopleInformation\bin\Debug\PeopleInformation.pdb
+E:\devel2\Test\StudentManagement\PeopleInformation\obj\Debug\PeopleInformation.dll
+E:\devel2\Test\StudentManagement\PeopleInformation\obj\Debug\PeopleInformation.pdb

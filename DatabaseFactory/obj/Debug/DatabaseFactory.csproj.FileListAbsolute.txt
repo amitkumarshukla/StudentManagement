@@ -1,0 +1,13 @@
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\DatabaseFactory.dll
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\DatabaseFactory.pdb
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\DatabaseInterface.dll
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\SQLInterface.dll
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\TestTextFileDatabase.dll
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\PeopleInformation.dll
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\DatabaseInterface.pdb
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\SQLInterface.pdb
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\TestTextFileDatabase.pdb
+E:\devel2\Test\StudentManagement\DatabaseFactory\bin\Debug\PeopleInformation.pdb
+E:\devel2\Test\StudentManagement\DatabaseFactory\obj\Debug\DatabaseFactory.csprojResolveAssemblyReference.cache
+E:\devel2\Test\StudentManagement\DatabaseFactory\obj\Debug\DatabaseFactory.dll
+E:\devel2\Test\StudentManagement\DatabaseFactory\obj\Debug\DatabaseFactory.pdb
